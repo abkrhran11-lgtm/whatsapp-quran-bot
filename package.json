@@ -1,0 +1,16 @@
+{
+  "name": "whatsapp-quran-bot",
+  "version": "1.0.0",
+  "description": "WhatsApp Islamic Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.6.0",
+    "axios": "^1.6.8",
+    "express": "^4.19.2",
+    "node-cron": "^3.0.3",
+    "pino": "^8.19.0"
+  }
+}
